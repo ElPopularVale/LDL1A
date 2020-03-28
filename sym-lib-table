@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 451-00001)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/451-00001.lib)(options "")(descr ""))
+  (lib (name DX07S024XJ1R1100)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/DX07S024XJ1R1100.lib)(options "")(descr ""))
+  (lib (name DF17_4.0_-30DS-0.5V_57_)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/DF17_4.0_-30DS-0.5V_57_.lib)(options "")(descr ""))
+  (lib (name 503480-0600)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/503480-0600.lib)(options "")(descr ""))
+)

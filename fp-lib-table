@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name XCVR_451-00001)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/XCVR_451-00001.pretty)(options "")(descr ""))
+  (lib (name ABS05-32.768KHZ-T)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/ABS05-32.768KHZ-T.pretty)(options "")(descr ""))
+  (lib (name JAE_DX07S024XJ1R1100)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/JAE_DX07S024XJ1R1100.pretty)(options "")(descr ""))
+  (lib (name SeeedOPL-LED)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/SeeedOPL-LED.pretty)(options "")(descr ""))
+  (lib (name "HRS_DF17(4.0)-30DS-0")(type KiCad)(uri "${KIPRJMOD}/Libs/Footprints/HRS_DF17(4.0)-30DS-0.5V(57)")(options "")(descr ""))
+  (lib (name MOLEX_503480-0600)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/MOLEX_503480-0600.pretty)(options "")(descr ""))
+  (lib (name PSON80P330X560X165-14N)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/PSON80P330X560X165-14N.pretty)(options "")(descr ""))
+)
