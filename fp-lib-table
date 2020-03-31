@@ -8,4 +8,5 @@
   (lib (name PSON80P330X560X165-14N)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/PSON80P330X560X165-14N.pretty)(options "")(descr ""))
   (lib (name 503480-0400)(type Legacy)(uri "/Users/josegranados/Library/Mobile Documents/com~apple~CloudDocs/Horizon Medical/Hardware/Lifedatalink/Lifedatalink_v1_revA/Libs/Footprints/503480-0400.mod")(options "")(descr ""))
   (lib (name DF23)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/DF23.pretty)(options "")(descr ""))
+  (lib (name Pads_1.27mm)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/Pads_1.27mm.pretty)(options "")(descr ""))
 )
