@@ -11,4 +11,5 @@
   (lib (name Pads_1.27mm)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/Pads_1.27mm.pretty)(options "")(descr ""))
   (lib (name APA-102-2020-256-8)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/APA-102-2020-256-8.pretty)(options "")(descr ""))
   (lib (name OSD3358-512M-BSM)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/OSD3358-512M-BSM)(options "")(descr ""))
+  (lib (name SW_B3U-3000P)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/SW_B3U-3000P.pretty)(options "")(descr ""))
 )
