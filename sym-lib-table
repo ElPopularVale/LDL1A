@@ -7,4 +7,5 @@
   (lib (name 503480-1000)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/503480-1000.lib)(options "")(descr ""))
   (lib (name IIS2DLPCTR)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/IIS2DLPCTR.lib)(options "")(descr ""))
   (lib (name 3341)(type Legacy)(uri ${KIPRJMOD}/Libs/Symbols/3341.lib)(options "")(descr ""))
+  (lib (name Lifedatalink_v1_revA-rescue)(type Legacy)(uri ${KIPRJMOD}/Lifedatalink_v1_revA-rescue.lib)(options "")(descr ""))
 )
