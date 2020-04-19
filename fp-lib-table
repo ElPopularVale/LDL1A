@@ -13,4 +13,5 @@
   (lib (name OSD3358-512M-BSM)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/OSD3358-512M-BSM)(options "")(descr ""))
   (lib (name SW_B3U-3000P)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/SW_B3U-3000P.pretty)(options "")(descr ""))
   (lib (name horizon_logo_silk)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/horizon_logo_silk.pretty)(options "")(descr ""))
+  (lib (name SnapEda)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints/SnapEda.pretty)(options "")(descr ""))
 )
